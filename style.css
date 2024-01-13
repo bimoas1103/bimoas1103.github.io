@@ -1,0 +1,60 @@
+.judul-center {
+  text-align: center;
+  justify-content: center;
+}
+
+.bg-navbar {
+  background-color: rgb(78, 78, 78);
+}
+
+.li-navbar {
+  color: white;
+}
+
+.li-navbar:hover {
+  background-color: #ffc107;
+  border-radius: 12%;
+  transition: 3ms ease-in-out;
+}
+
+.jumbotron {
+  padding-top: 8rem;
+  background-color: rgb(211, 211, 211);
+}
+
+.display-5 {
+  font-weight: 100;
+}
+
+.img-jt {
+  size-adjust: auto;
+  width: 15%;
+  height: 15%;
+  border-radius: 1000px;
+  margin-bottom: 2rem;
+}
+
+.about-content {
+  background-color: #f3f4f5;
+}
+
+.p-gallery {
+  margin-bottom: 3rem;
+}
+
+.contactme {
+  background-color: #f3f4f5;
+}
+
+.footer-body {
+  background-color: #4e4e4e;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+}
+
+.a-footer {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+}
